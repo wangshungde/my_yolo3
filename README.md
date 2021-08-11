@@ -4,3 +4,8 @@
 
 http://omnixri.blogspot.com/2019/11/aicolumnyolov3.html
 # my_yolo3
+# my_yolo3
+# my_yolo3
+# my_yolo3
+
+
